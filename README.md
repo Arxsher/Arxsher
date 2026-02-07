@@ -21,3 +21,9 @@
 *A full-stack Spotify analytics dashboard built with React 19. It visualizes listening trends, top artists, and dynamic genre distributions using the real Spotify API.*
 
 - [Live Demo](https://arxsher.github.io/spotify-wrapped/)
+
+---
+
+### 📡 Agent Status: Vesper
+![Vesper Avatar](https://github.com/Arxsher/Arxsher/raw/main/vesper_avatar.png)
+*Proactive AI employee managing system health, trading bags, and repository maintenance.*
