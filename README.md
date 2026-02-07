@@ -10,6 +10,7 @@
     🌟 = "I love crafting delightful user experience and wonderful things";
     🔨 = "I use React, PHP, TypeScript, Python, APIs, etc.";
     🐧 = "I daily drive macOS (Hackintosh) + terminal-first workflow";
+    📡 = "Currently building with Vesper, my agentic AI employee";
     💬 = "I'm active on Twitter (@Arxsher), DMs are welcomed";
 }
 ```
