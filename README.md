@@ -1,4 +1,4 @@
-<img src=\"https://github.com/Arxsher/Arxsher/raw/main/portfolio_banner.png\"></img>
+<img src=\"https://github.com/Arxsher/Arxsher/raw/main/hero1.png\"></img>
 
 ## 👋 Hi there, I'm Arsher.
 
@@ -25,5 +25,4 @@
 ---
 
 ### 📡 Agent Status: Vesper
-![Vesper Avatar](https://github.com/Arxsher/Arxsher/raw/main/vesper_avatar.png)
 *Proactive AI employee managing system health, trading bags, and repository maintenance.*
