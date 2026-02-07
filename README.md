@@ -1,17 +1,17 @@
-<img src=\"https://github.com/Arxsher/Arxsher/raw/main/hero1.png\"></img>
+<img src="https://github.com/Arxsher/Arxsher/raw/main/hero1.png"></img>
 
 ## 👋 Hi there, I'm Arsher.
 
 ```
 (lldb) po [self description]
 {
-    💻 = \"I'm a Full-stack developer in progress, focused on real-world web apps\";
-    🤔 = \"I study UI techniques and everything related to user interface\";
-    🌟 = \"I love crafting delightful user experience and wonderful things\";
-    🔨 = \"I use React, PHP, TypeScript, Python, APIs, etc.\";
-    🐧 = \"I daily drive macOS (Hackintosh) + terminal-first workflow\";
-    📡 = \"Currently building with Vesper, my agentic AI employee\";
-    💬 = \"I'm active on Twitter (@Arxsher), DMs are welcomed\";
+    💻 = "I'm a Full-stack developer in progress, focused on real-world web apps";
+    🤔 = "I study UI techniques and everything related to user interface";
+    🌟 = "I love crafting delightful user experience and wonderful things";
+    🔨 = "I use React, PHP, TypeScript, Python, APIs, etc.";
+    🐧 = "I daily drive macOS (Hackintosh) + terminal-first workflow";
+    📡 = "Currently building with Vesper, my agentic AI employee";
+    💬 = "I'm active on Twitter (@Arxsher), DMs are welcomed";
 }
 ```
 
