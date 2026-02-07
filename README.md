@@ -1,4 +1,4 @@
-<img src=\"https://github.com/Arxsher/Arxsher/raw/main/hero1.png\"></img>
+<img src=\"https://github.com/Arxsher/Arxsher/raw/main/portfolio_banner.png\"></img>
 
 ## 👋 Hi there, I'm Arsher.
 
