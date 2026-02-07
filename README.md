@@ -17,7 +17,7 @@
 
 ### 🚀 Featured Project
 
-**[Spotify Wrapped Clone](https://github.com/Arxsher/spotify-wrapped)**
+**[Spotify Wrapped](https://github.com/Arxsher/spotify-wrapped)**
 *A full-stack Spotify analytics dashboard built with React 19. It visualizes listening trends, top artists, and dynamic genre distributions using the real Spotify API.*
 
 - [Live Demo](https://arxsher.github.io/spotify-wrapped/)
